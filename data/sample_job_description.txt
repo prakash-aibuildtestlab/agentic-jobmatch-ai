@@ -1,0 +1,29 @@
+Job Title: AI Automation Engineer
+
+Location: Australia
+
+Job Description:
+We are looking for an AI Automation Engineer to design and build AI-powered workflow automation solutions. The role involves developing GenAI applications, integrating APIs, building agentic workflows, and deploying reliable automation solutions for business users.
+
+Responsibilities:
+- Build AI-powered automation workflows using Python and LLMs
+- Develop API-based integrations with enterprise systems
+- Create agentic AI workflows using frameworks such as LangChain, LangGraph, or CrewAI
+- Build RAG-based applications using document retrieval and vector databases
+- Create reliable, testable, and maintainable automation solutions
+- Work with stakeholders to understand business processes and automation opportunities
+- Monitor AI outputs for accuracy, reliability, and safety
+- Document technical designs, implementation steps, and user-facing reports
+
+Required Skills:
+- Python
+- REST APIs
+- Git and GitHub
+- LangChain or LangGraph
+- CrewAI or multi-agent frameworks
+- RAG and vector database concepts
+- FastAPI or backend API development
+- Docker
+- Cloud deployment experience
+- LLM evaluation or testing experience
+- Strong problem-solving and communication skills

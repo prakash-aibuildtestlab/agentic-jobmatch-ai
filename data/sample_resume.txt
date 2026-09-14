@@ -1,0 +1,35 @@
+Sample Candidate
+Melbourne, Australia
+
+Professional Summary:
+Automation specialist with experience in API testing, workflow automation, Python scripting, data validation, and AI-assisted quality engineering. Currently building GenAI and agentic AI applications using Python, CrewAI, LangChain, LangGraph, RAG concepts, and LLM evaluation frameworks.
+
+Key Skills:
+- Python
+- REST APIs
+- Postman and Newman
+- SQL
+- Workflow automation
+- Jira
+- Git and GitHub
+- Docker basics
+- LangChain
+- LangGraph
+- CrewAI
+- RAG concepts
+- LLM evaluation using DeepEval and RAGAS
+- Test automation
+- Stakeholder communication
+
+Projects:
+1. Jira AI Workflow Automation
+Built an AI-assisted workflow that converts Jira stories into test cases, test data, execution summaries, and defect reports.
+
+2. AI Agent Evaluation
+Built a DeepEval-based evaluation workflow to test AI agent task completion, tool usage, and response quality.
+
+3. RAG Learning Project
+Created a basic retrieval-augmented generation prototype using document loading, chunking, embeddings, and vector search.
+
+Experience:
+Senior QA and Automation Specialist with 12+ years of experience in enterprise systems, APIs, data validation, and automation delivery.
