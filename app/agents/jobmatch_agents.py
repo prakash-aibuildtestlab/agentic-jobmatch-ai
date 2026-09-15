@@ -61,3 +61,46 @@ def create_match_scoring_agent() -> Agent:
         verbose=True,
         allow_delegation=False,
     )
+
+
+def create_learning_roadmap_agent() -> Agent:
+    """
+    Creates an agent responsible for generating a practical learning roadmap.
+    """
+    return Agent(
+        role="Learning Roadmap Agent",
+        goal=(
+            "Create a practical learning and project improvement roadmap based on "
+            "the candidate's job match score, missing skills, and experience gaps."
+        ),
+        backstory=(
+            "You are an experienced AI career coach and GenAI engineering mentor. "
+            "You help candidates move into AI Automation Engineer, GenAI Application Developer, "
+            "LLM Application Engineer, and Agentic AI Developer roles. "
+            "You convert skill gaps into practical learning actions, GitHub project improvements, "
+            "and interview preparation steps."
+        ),
+        verbose=True,
+        allow_delegation=False,
+    )
+
+def create_final_report_agent() -> Agent:
+    """
+    Creates an agent responsible for producing the final polished report.
+    """
+    return Agent(
+        role="Final Report Agent",
+        goal=(
+            "Create a polished final job match report that combines resume analysis, "
+            "job description analysis, match scoring, and learning roadmap into one clear output."
+        ),
+        backstory=(
+            "You are a senior AI career consultant and technical report writer. "
+            "You create clear, recruiter-friendly reports for candidates applying to "
+            "AI Automation Engineer, GenAI Application Developer, LLM Application Engineer, "
+            "and Agentic AI Developer roles. "
+            "You make reports professional, practical, evidence-based, and easy to read."
+        ),
+        verbose=True,
+        allow_delegation=False,
+    )
